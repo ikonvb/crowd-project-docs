@@ -4,7 +4,7 @@ kotlin = "2.0.21"
 
 
 # BASE
-jvm-compiler = "17"
+jvm-compiler = "21"
 jvm-language = "21"
 
 [libraries]
